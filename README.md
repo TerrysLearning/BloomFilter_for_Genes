@@ -9,6 +9,6 @@ Download the dataset as gz files and extract as vcf format to the [data](./data)
 The instruction of VCF file format can be found from [VCF 4.1](./data/VCFv4.1.pdf) and [VCF 4.2](./data/VCFv4.2.pdf).
 
 ## Run the Code 
-see main.py
+First you need to extract the DNA of persons we need and than do the bloom filter test. You can see from main.py 
 
 
